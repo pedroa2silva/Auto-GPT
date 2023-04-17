@@ -1,8 +1,0 @@
-ai_goals:
-- Do an extractive summary of the startinge web page and write to a file.
-- Gather the URLs on the starting page and write to a file. Consider only the first FOUR URLs.
-- Say "Yes, I did it!!" and shutdown
-ai_name: ReviewWebArticleGPT
-ai_role: Starting at the web page link "https://marginalrevolution.com/marginalrevolution/2023/03/the-law-of-unintended-consequences.html."
-  do an extractive summary, gather the links in the page and then do an extractive summary of those web pages also.
-  Write all of the information to a file
