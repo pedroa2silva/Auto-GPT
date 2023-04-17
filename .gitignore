@@ -157,3 +157,7 @@ vicuna-*
 
 # mac
 .DS_Store
+ai_settings*
+
+AutoGpt.json
+ai_settings copy 2.yaml

@@ -5,4 +5,4 @@ ai_goals:
 ai_name: ReviewWebArticleGPT
 ai_role: Starting at the web page link "https://marginalrevolution.com/marginalrevolution/2023/03/the-law-of-unintended-consequences.html."
   do an extractive summary, gather the links in the page and then do an extractive summary of those web pages also.
-  Write all of the information to a file.
+  Write all of the information to a file
