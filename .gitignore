@@ -156,13 +156,10 @@ vicuna-*
 
 # mac
 .DS_Store
-<<<<<<< HEAD
 ai_settings*
 
 AutoGpt.json
-ai_settings_copy_2.yaml
-=======
+ai_settings_copy_*.yaml
 
 # news
 CURRENT_BULLETIN.md
->>>>>>> 999990b614f9c5e32dbfb560ab9516755d212884
