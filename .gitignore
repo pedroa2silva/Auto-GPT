@@ -20,6 +20,7 @@ log-ingestion.txt
 logs
 *.log
 *.mp3
+mem.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -94,6 +95,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+site/
 
 # PyBuilder
 target/
@@ -160,6 +162,8 @@ ai_settings*
 
 AutoGpt.json
 ai_settings_copy_*.yaml
+
+openai/
 
 # news
 CURRENT_BULLETIN.md
